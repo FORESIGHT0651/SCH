@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.scj.schedule4.Schedule4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 96.721 s - in com.scj.schedule4.Schedule4ApplicationTests
