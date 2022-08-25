@@ -3,7 +3,7 @@ module.exports = {
     port:8000
   },
   configureWebpack:{
-    externals:{'AMap':"AMap"}
+    externals:{'AMap':}
   },
   publicPath:'./'
 };
